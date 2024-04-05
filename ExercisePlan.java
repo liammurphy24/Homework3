@@ -1,3 +1,5 @@
+// Liam Murphy
+
 package Homework3;
 // Define the ExercisePlan class
 public class ExercisePlan {

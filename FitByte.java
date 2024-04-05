@@ -1,3 +1,5 @@
+// Liam Murphy
+
 package Homework3;
 // Define the FitByte class
 public class FitByte {
